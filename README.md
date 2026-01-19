@@ -11,4 +11,4 @@ Parts of the implementation are adapted from the HuggingFace tutorial on token c
 ([Transformers Token Classification Tutorial](https://huggingface.co/docs/transformers/tasks/token_classification)).
 
 The English dataset used is WNUT-17.
-The Hindi dataset was provided as part of the course materials.
+
